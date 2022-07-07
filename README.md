@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/87723231/177726980-4e63ec3d-94aa-49a9-
 - Firebase for authentication flow
 - Redux Toolkit for state management
 - Expo for quick workflow
-- Axis for fetch operations
+- Axios for fetch operations
 - React Navigation for routing
 - Provides flash messages for authentication flow
 - Provides form validation using Formik and Yup
