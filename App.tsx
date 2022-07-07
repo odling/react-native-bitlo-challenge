@@ -1,7 +1,6 @@
 import "./config/firebase";
 import "./services/MarketService";
 import {
-  initialWindowMetrics,
   SafeAreaProvider,
 } from "react-native-safe-area-context";
 import { Provider } from "react-redux";

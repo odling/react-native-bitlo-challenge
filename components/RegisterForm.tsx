@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Formik } from "formik";
-import { StyleSheet, TextInput } from "react-native";
+import { StyleSheet } from "react-native";
 import * as yup from "yup";
 import { messages } from "../constants/Messages";
 import Box from "./styled/Box";

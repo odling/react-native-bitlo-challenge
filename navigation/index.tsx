@@ -8,11 +8,10 @@ import { useTheme } from "../hooks/useTheme";
 import RegisterScreen from "../screens/RegisterScreen";
 import MarketsScreen from "../screens/MarketsScreen";
 import { TouchableOpacity } from "react-native-gesture-handler";
-import { Text } from "react-native";
 import UserInfoScreen from "../screens/UserInfoScreen";
 import AppSettingsScreen from "../screens/AppSettingsScreen";
 import MarketDetailsScreen from "../screens/MarketDetailsScreen";
-import { EvilIcons, Ionicons } from "expo-vector-icons";
+import { EvilIcons } from "expo-vector-icons";
 import { layout } from "../constants/Layout";
 
 declare global {
