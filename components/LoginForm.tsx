@@ -113,23 +113,6 @@ const styles = StyleSheet.create({
     marginVertical: layout.spacing.m,
     textAlign: "center",
   },
-  titleContainer: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-    paddingRight: layout.spacing.s,
-    marginHorizontal: layout.spacing.m,
-  },
-  field: {
-    marginTop: layout.spacing.s,
-    paddingLeft: layout.spacing.s,
-    marginHorizontal: layout.spacing.m,
-    backgroundColor: "white",
-    borderRadius: 5,
-    borderWidth: 1,
-    borderColor: "gray",
-    height: 40,
-  },
   register: {
     width: "100%",
     marginTop: layout.spacing.l,
