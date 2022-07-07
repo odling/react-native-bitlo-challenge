@@ -27,6 +27,7 @@ https://user-images.githubusercontent.com/87723231/177726980-4e63ec3d-94aa-49a9-
 ./constants folder includes two files,
 - Layout
 - Theme
+
 There are also styled components (Box, Text, etc.), for which the styles can be overwritten, but implements the spacings, text properties and colors based on the two files above.
 
 This way, the app should have consistent spacings and colors (from the palette) everywhere.
