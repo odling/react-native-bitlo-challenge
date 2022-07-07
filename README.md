@@ -5,6 +5,12 @@ This repository is 	created to submit response to the technical challenge.
 ## Demo
 
 
+https://user-images.githubusercontent.com/87723231/177726379-1ccc6e3f-d114-4393-8f44-03412b1eb2a0.mp4
+
+https://user-images.githubusercontent.com/87723231/177726980-4e63ec3d-94aa-49a9-84b2-a8c6b67bfc8a.mp4
+
+
+
 ## Technology Used & Features
 - Firebase for authentication flow
 - Redux Toolkit for state management
